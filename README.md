@@ -25,7 +25,7 @@ to improve frontal structure preservation and recursive forecasting stability in
 ## Framework
 
 <p align="center">
-  <img src="./framework.pdf" width="90%">
+  <img src="./flowchart.png" width="90%">
 </p>
 
 ---
